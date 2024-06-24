@@ -104,6 +104,7 @@ h3 {
 .preparation__title {
   color: var(--clr-secondary);
   font-size: var(--fs-400);
+  font-weight: var(--fw-medium);
 }
 
 .bullet-list > *::before {
