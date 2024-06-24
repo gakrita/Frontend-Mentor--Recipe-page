@@ -87,7 +87,7 @@ h3 {
 }
 
 .intro__title {
-  color: black;
+  color: var(--clr-neutral-800);
   font-family: var(--ff-accent);
   font-size: var(--fs-800);
   font-weight: inherit;
