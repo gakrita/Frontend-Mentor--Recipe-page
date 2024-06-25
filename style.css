@@ -169,7 +169,7 @@ td:nth-child(2) {
   .card {
     background-color: var(--clr-neutral-100);
     max-width: 736px;
-    margin: 125px auto;
+    margin: 123px auto;
     padding: 2.5rem;
     border-radius: 1.5rem;
   }
