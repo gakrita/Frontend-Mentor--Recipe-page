@@ -92,7 +92,7 @@ ul > * {
   color: var(--clr-neutral-800);
   font-family: var(--ff-accent);
   font-size: var(--fs-800);
-  font-weight: inherit;
+  font-weight: var(--fw-normal);
   line-height: 1;
   margin-bottom: 1.5rem;
 }
