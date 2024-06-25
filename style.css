@@ -53,7 +53,7 @@ ul > * {
 
 .grid-flow {
   display: grid;
-  gap: 2rem;
+  gap: 1.9rem;
 }
 
 .grid-flow[data-item-spacing="large"] {
