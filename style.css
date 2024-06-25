@@ -186,8 +186,4 @@ td:nth-child(2) {
   .intro__title {
     font-size: var(--fs-900);
   }
-
-  .preparation {
-    padding: 1.75rem;
-  }
 }
