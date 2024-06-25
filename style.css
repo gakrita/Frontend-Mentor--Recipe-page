@@ -163,7 +163,6 @@ td:nth-child(2) {
   main {
     background-color: var(--clr-neutral-300);
 
-    min-height: 90vh;
     align-content: center;
   }
 
